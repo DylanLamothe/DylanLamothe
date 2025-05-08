@@ -4,7 +4,7 @@
 
 - <b>List Projects here as they are made
 
-
+<h2>📄 Certifications</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
